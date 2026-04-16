@@ -1,0 +1,21 @@
+# Entorno Virtual
+venv_estrellas/
+venv/
+env/
+.env
+
+# Python (archivos compilados)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Datos (opcional, pero suele ser buena práctica si el csv es grande)
+# stars_data.csv
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
