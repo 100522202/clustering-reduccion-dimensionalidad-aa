@@ -3,6 +3,7 @@ venv_estrellas/
 venv/
 env/
 .env
+.venv
 
 # Python (archivos compilados)
 __pycache__/
