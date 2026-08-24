@@ -4,7 +4,7 @@ Práctica 2 de la asignatura **Aprendizaje Automático (UC3M)**.
 
 ---
 
-## 📌 Descripción
+## Descripción
 
 Aplicación de técnicas de **Aprendizaje No Supervisado** para el descubrimiento de patrones y agrupamiento de datos astronómicos.
 
@@ -19,7 +19,7 @@ Aplicación de técnicas de **Aprendizaje No Supervisado** para el descubrimient
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 * Python 3
 * Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn
